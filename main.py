@@ -1,6 +1,6 @@
 import requests
 
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAIUXmgEAAAAAKkT4C5AGl6dy3xpN0Xu8qniIpBM%3DrLZTCakRyejwirFyIcuOOP9BjUk29Z7rGz7TJFd1ofwDccwPvO"
+bearer_token = ""
 
 params = {
     "query": "suicide",
